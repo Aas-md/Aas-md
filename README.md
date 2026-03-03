@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Aas Mohammad
 
-<!--
-**Aas-md/Aas-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Aspiring Full Stack Web Developer | 💻 Passionate about building user-focused web applications
+📍 Based in Delhi, India
+***
+### 🚀 About Me
+I’m a Full Stack Web Developer passionate about crafting scalable, responsive, and user-friendly web solutions.
+I have completed my Diploma in Electronics Engineering from Ambedkar DSEU Shakarpur Campus-I, New Delhi, and I’m currently sharpening my web development skills at Masai School’s Full Stack Web Development program.
+***
+### 🧠 Tech Stack
+#### Frontend:
+⚡ React.js • JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • TailwindCSS • Redux
 
-Here are some ideas to get you started:
+#### Backend:
+🧩 Node.js • Express.js • RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Database:
+🗄️ MongoDB • MySQL
+
+#### Cloud & Tools:
+☁️ AWS • Firebase • Git • GitHub • VS Code
+#### Other Concepts:
+🧠 Data Structures & Algorithms • OOP • SDLC • System Design • Agile
 -->
